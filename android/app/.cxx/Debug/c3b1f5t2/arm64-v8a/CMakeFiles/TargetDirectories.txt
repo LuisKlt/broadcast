@@ -1,0 +1,2 @@
+C:/Users/IFSul/reposluis/broadcast/android/app/.cxx/Debug/c3b1f5t2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/IFSul/reposluis/broadcast/android/app/.cxx/Debug/c3b1f5t2/arm64-v8a/CMakeFiles/rebuild_cache.dir
